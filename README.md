@@ -20,7 +20,7 @@ Tech stack:
 
 ---
 
-## 1. Project structure
+## Project structure
 
 ```text
 ai-governance-control-hub-backend/
@@ -45,7 +45,7 @@ ai-governance-control-hub-backend/
 ```
 
 
-## 7. API reference
+## API reference
 
 All error responses share this shape:
 
@@ -198,7 +198,7 @@ curl "http://localhost:5000/api/governance/status?usecaseId=1"
 
 ---
 
-## 8. How Appian should integrate with this backend
+## How Appian should integrate with this backend
 
 ### Appian objects to create
 
@@ -232,7 +232,7 @@ Refresh record/dashboard
 
 ---
 
-## 9. Resume bullet after building this
+## Resume bullet after building this
 
 ```text
 Built an Appian-integrated AI Governance Control Hub using Flask, PostgreSQL, and REST APIs to automate model risk scoring, multi-stage approval workflows, audit logging, and governance dashboards for AI/ML use cases across risk, compliance, security, and architecture teams.
